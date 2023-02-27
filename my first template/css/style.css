@@ -260,7 +260,11 @@ body {height:}
 
 .footer ul li {display:inline-block;cursor:pointer;margin:10px 10px;}
 
-.footer ul li:hover {color:#FFF}
+.fa-facebook-square:hover {color: #3b5998}
+.fa-twitter-square:hover {color: #55acee}
+.fa-linkedin-square:hover {color: #0077b5}
+.fa-youtube-square:hover {color: #cd201f}
+.fa-google-plus-square:hover {color: #dc4e41}
 
 /* End Footer */
 
